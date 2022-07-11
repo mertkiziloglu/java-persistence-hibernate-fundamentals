@@ -15,7 +15,9 @@ public class Main {
         em.getTransaction().begin();
 
         Passenger john = new Passenger(1, "John Smith", "3 Flowers Street, Boston");
+        Passenger mert = new Passenger(2, "Mert Kiziloglu", "1881 Ataturk, Istanbul");
         em.persist(john);
+        em.persist(mert);
 
         em.getTransaction().commit();
         emf.close();
