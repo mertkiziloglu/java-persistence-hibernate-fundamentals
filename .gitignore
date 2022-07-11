@@ -1,0 +1,38 @@
+# Project exclude paths
+/02/demos/After/target/
+/03/demos/After/m03-ex01/target/
+/03/demos/After/m03-ex02/target/
+/03/demos/After/m03-ex03/target/
+/03/demos/After/m03-ex04/target/
+/03/demos/After/m03-ex05/target/
+/03/demos/After/m03-ex06/target/
+/04/demos/After (2)/After/m04-ex01/target/
+/04/demos/After (2)/After/m04-ex02/target/
+/04/demos/After (2)/After/m04-ex03/target/
+/04/demos/After (2)/After/m04-ex04/target/
+/04/demos/After (2)/After/m04-ex05/target/
+/04/demos/After (2)/After/m04-ex06/target/
+/04/demos/After (2)/After/m04-ex07/target/
+/04/demos/Before (2)/Before/m04-ex01/target/
+/04/demos/Before (2)/Before/m04-ex02/target/
+/04/demos/Before (2)/Before/m04-ex03/target/
+/04/demos/Before (2)/Before/m04-ex04/target/
+/04/demos/Before (2)/Before/m04-ex05/target/
+/04/demos/Before (2)/Before/m04-ex06/target/
+/04/demos/Before (2)/Before/m04-ex07/target/
+/05/demos/After (1)/After/m05-ex01/target/
+/05/demos/After (1)/After/m05-ex02/target/
+/05/demos/After (1)/After/m05-ex03/target/
+/05/demos/After (1)/After/m05-ex04/target/
+/05/demos/After (1)/After/m05-ex05/target/
+/05/demos/After (1)/After/m05-ex06/target/
+/05/demos/Before (1)/Before/m05-ex01/target/
+/05/demos/Before (1)/Before/m05-ex02/target/
+/05/demos/Before (1)/Before/m05-ex03/target/
+/05/demos/Before (1)/Before/m05-ex04/target/
+/05/demos/Before (1)/Before/m05-ex05/target/
+/05/demos/Before (1)/Before/m05-ex06/target/
+/06/demos/After/After/m06-ex01/target/
+/06/demos/After/After/m06-ex02/target/
+/06/demos/Before/Before/m06-ex01/target/
+/06/demos/Before/Before/m06-ex02/target/

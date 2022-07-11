@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/02/demos/After/pom.xml" />
+        <option value="$PROJECT_DIR$/03/demos/After/m03-ex01/pom.xml" />
+        <option value="$PROJECT_DIR$/03/demos/After/m03-ex02/pom.xml" />
+        <option value="$PROJECT_DIR$/03/demos/After/m03-ex03/pom.xml" />
+        <option value="$PROJECT_DIR$/03/demos/After/m03-ex04/pom.xml" />
+        <option value="$PROJECT_DIR$/03/demos/After/m03-ex05/pom.xml" />
+        <option value="$PROJECT_DIR$/03/demos/After/m03-ex06/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/After (2)/After/m04-ex01/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/After (2)/After/m04-ex02/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/After (2)/After/m04-ex03/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/After (2)/After/m04-ex04/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/After (2)/After/m04-ex05/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/After (2)/After/m04-ex06/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/After (2)/After/m04-ex07/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex01/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex02/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex03/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex04/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex05/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex06/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex07/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/After (1)/After/m05-ex01/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/After (1)/After/m05-ex02/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/After (1)/After/m05-ex03/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/After (1)/After/m05-ex04/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/After (1)/After/m05-ex05/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/After (1)/After/m05-ex06/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex01/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex02/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex03/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex04/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex05/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex06/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/After/After/m06-ex01/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/After/After/m06-ex02/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/Before/Before/m06-ex01/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/Before/Before/m06-ex02/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02/demos/After/airport.iml" filepath="$PROJECT_DIR$/02/demos/After/airport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-persistence-hibernate-fundamentals.iml" filepath="$PROJECT_DIR$/.idea/java-persistence-hibernate-fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/After/m03-ex01/m03-ex01.iml" filepath="$PROJECT_DIR$/03/demos/After/m03-ex01/m03-ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/After/m03-ex02/m03-ex02.iml" filepath="$PROJECT_DIR$/03/demos/After/m03-ex02/m03-ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/After/m03-ex03/m03-ex03.iml" filepath="$PROJECT_DIR$/03/demos/After/m03-ex03/m03-ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/After/m03-ex04/m03-ex04.iml" filepath="$PROJECT_DIR$/03/demos/After/m03-ex04/m03-ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/After/m03-ex05/m03-ex05.iml" filepath="$PROJECT_DIR$/03/demos/After/m03-ex05/m03-ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/After/m03-ex06/m03-ex06.iml" filepath="$PROJECT_DIR$/03/demos/After/m03-ex06/m03-ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/After (2)/After/m04-ex01/m04-ex01.iml" filepath="$PROJECT_DIR$/04/demos/After (2)/After/m04-ex01/m04-ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex01/m04-ex01 (1).iml" filepath="$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex01/m04-ex01 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/After (2)/After/m04-ex02/m04-ex02.iml" filepath="$PROJECT_DIR$/04/demos/After (2)/After/m04-ex02/m04-ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex02/m04-ex02 (1).iml" filepath="$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex02/m04-ex02 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/After (2)/After/m04-ex03/m04-ex03.iml" filepath="$PROJECT_DIR$/04/demos/After (2)/After/m04-ex03/m04-ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex03/m04-ex03 (1).iml" filepath="$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex03/m04-ex03 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/After (2)/After/m04-ex04/m04-ex04.iml" filepath="$PROJECT_DIR$/04/demos/After (2)/After/m04-ex04/m04-ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex04/m04-ex04 (1).iml" filepath="$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex04/m04-ex04 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/After (2)/After/m04-ex05/m04-ex05.iml" filepath="$PROJECT_DIR$/04/demos/After (2)/After/m04-ex05/m04-ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex05/m04-ex05 (1).iml" filepath="$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex05/m04-ex05 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/After (2)/After/m04-ex06/m04-ex06.iml" filepath="$PROJECT_DIR$/04/demos/After (2)/After/m04-ex06/m04-ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex06/m04-ex06 (1).iml" filepath="$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex06/m04-ex06 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/After (2)/After/m04-ex07/m04-ex07.iml" filepath="$PROJECT_DIR$/04/demos/After (2)/After/m04-ex07/m04-ex07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex07/m04-ex07 (1).iml" filepath="$PROJECT_DIR$/04/demos/Before (2)/Before/m04-ex07/m04-ex07 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/After (1)/After/m05-ex01/m05-ex01.iml" filepath="$PROJECT_DIR$/05/demos/After (1)/After/m05-ex01/m05-ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex01/m05-ex01 (1).iml" filepath="$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex01/m05-ex01 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/After (1)/After/m05-ex02/m05-ex02.iml" filepath="$PROJECT_DIR$/05/demos/After (1)/After/m05-ex02/m05-ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex02/m05-ex02 (1).iml" filepath="$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex02/m05-ex02 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/After (1)/After/m05-ex03/m05-ex03.iml" filepath="$PROJECT_DIR$/05/demos/After (1)/After/m05-ex03/m05-ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex03/m05-ex03 (1).iml" filepath="$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex03/m05-ex03 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/After (1)/After/m05-ex04/m05-ex04.iml" filepath="$PROJECT_DIR$/05/demos/After (1)/After/m05-ex04/m05-ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex04/m05-ex04 (1).iml" filepath="$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex04/m05-ex04 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/After (1)/After/m05-ex05/m05-ex05.iml" filepath="$PROJECT_DIR$/05/demos/After (1)/After/m05-ex05/m05-ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex05/m05-ex05 (1).iml" filepath="$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex05/m05-ex05 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/After (1)/After/m05-ex06/m05-ex06.iml" filepath="$PROJECT_DIR$/05/demos/After (1)/After/m05-ex06/m05-ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex06/m05-ex06 (1).iml" filepath="$PROJECT_DIR$/05/demos/Before (1)/Before/m05-ex06/m05-ex06 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/After/After/m06-ex01/m06-ex01.iml" filepath="$PROJECT_DIR$/06/demos/After/After/m06-ex01/m06-ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/Before/Before/m06-ex01/m06-ex01 (1).iml" filepath="$PROJECT_DIR$/06/demos/Before/Before/m06-ex01/m06-ex01 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/After/After/m06-ex02/m06-ex02.iml" filepath="$PROJECT_DIR$/06/demos/After/After/m06-ex02/m06-ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/Before/Before/m06-ex02/m06-ex02 (1).iml" filepath="$PROJECT_DIR$/06/demos/Before/Before/m06-ex02/m06-ex02 (1).iml" />
+    </modules>
+  </component>
+</project>
