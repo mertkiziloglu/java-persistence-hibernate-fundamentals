@@ -7,7 +7,7 @@ import javax.persistence.*;
 public class Ticket {
 
     @EmbeddedId
-    private TicketKey id;
+    private TicketKey id; //embedded id
     private String origin;
     private String destination;
 
