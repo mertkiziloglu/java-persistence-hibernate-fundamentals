@@ -20,7 +20,7 @@ public class Main {
         key.setNumber("1234");
 
         Ticket ticket1 = new Ticket();
-        ticket1.setId(key);
+        ticket1.setId(key); //embedded id
         ticket1.setOrigin("Bucharest");
         ticket1.setDestination("London");
         em.persist(ticket1);

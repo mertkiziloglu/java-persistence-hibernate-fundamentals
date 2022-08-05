@@ -17,6 +17,9 @@ public class Manager {
             @JoinColumn(name = "DEPARTMENT_ID", referencedColumnName = "ID", nullable = false)})
 	private Department department;
 
+	// @ElementCollection(fetch = FetchType.LAZY)
+	//    @Fetch(value = FetchMode.SUBSELECT)   buna bak persistance kitabindan
+
 	public Manager(String name) {
 		this.name = name;
 	}
