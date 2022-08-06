@@ -9,7 +9,7 @@ import javax.persistence.*;
            @SecondaryTable(name = "ADDRESSES",
              pkJoinColumns = @PrimaryKeyJoinColumn(name = "PASSENGER_ID", referencedColumnName = "PASSENGER_ID")),
            @SecondaryTable(name = "PHONES",
-             pkJoinColumns = @PrimaryKeyJoinColumn(name = "PASSENGER_ID", referencedColumnName = "PASSENGER_ID"))
+             pkJoinColumns = @PrimaryKeyJoinColumn(name = "PASSENGER_ID", referencedColumnName = "PASSENGER_ID")) //passangerId iki tabloda da olcak
 
         }
 )
