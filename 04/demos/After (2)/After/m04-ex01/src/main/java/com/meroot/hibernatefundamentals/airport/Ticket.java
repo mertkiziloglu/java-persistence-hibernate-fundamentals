@@ -14,7 +14,7 @@ public class Ticket {
     private String number;
 
     @ManyToOne
-    @JoinColumn(name = "PASSENGER_ID")
+    @JoinColumn(name = "PASSENGER_ID")// many to one relationship with passenger
     private Passenger passenger;
 
     public Ticket(String number) {
