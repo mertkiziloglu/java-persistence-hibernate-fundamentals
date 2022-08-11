@@ -16,7 +16,7 @@ public class Ticket {
     @Column(name = "NUMBER")
     private String number;
 
-    @ManyToMany
+    @ManyToMany //many to many de passanger alaninda ticket fazla oldugundan dolayi mapped ile belirttiler
     private List<Passenger> passengers = new ArrayList<>();
 
     public Ticket(String number) {
