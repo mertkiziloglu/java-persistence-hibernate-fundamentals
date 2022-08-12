@@ -18,7 +18,7 @@ public class Manager {
 	private Department department;
 
 	// @ElementCollection(fetch = FetchType.LAZY)
-	//    @Fetch(value = FetchMode.SUBSELECT)   buna bak persistance kitabindan
+	//    @Fetch(value = FetchMode.SUBSELECT)   buna bak persistance kitabindan baktim (cekilen veriler secilmis veriler)
 
 	public Manager(String name) {
 		this.name = name;
