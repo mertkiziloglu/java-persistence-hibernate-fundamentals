@@ -17,7 +17,7 @@ public class Passenger {
     @Column(name = "PASSENGER_NAME")
     private String name;
 
-    @OneToMany(mappedBy = "passenger")
+    @OneToMany(mappedBy = "passenger") //one to many oldugunda diger tabloda ise many to one yapmamiz lazim
     private List<Ticket> tickets = new ArrayList<>();
 
     public Passenger(String name) {

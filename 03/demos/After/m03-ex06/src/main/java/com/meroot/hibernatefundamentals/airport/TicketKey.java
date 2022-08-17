@@ -1,6 +1,7 @@
 package com.meroot.hibernatefundamentals.airport;
 
 import javax.persistence.Embeddable;
+import javax.persistence.Entity;
 import java.io.Serializable;
 
 @Embeddable

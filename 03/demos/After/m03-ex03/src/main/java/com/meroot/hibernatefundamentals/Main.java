@@ -14,7 +14,8 @@ public class Main {
         EntityManager em = emf.createEntityManager();
 
         em.getTransaction().begin();
-
+        // bir tane passangerimiz var ve o passangerin adresi ve telefon numarasi farkli tablolarda tutulmasini istiyoruz
+        //passangerid ile iki tabloda da o verileri tutabiliriz
         Passenger mert = new Passenger(1, "Mert Kiziloglu");
         mert.setCity("Istanbul");
         mert.setStreet("1881 Ataturk");
