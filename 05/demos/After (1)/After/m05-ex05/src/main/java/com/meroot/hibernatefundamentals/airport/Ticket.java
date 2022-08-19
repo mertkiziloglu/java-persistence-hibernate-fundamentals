@@ -4,7 +4,7 @@ package com.meroot.hibernatefundamentals.airport;
 import javax.persistence.*;
 
 @Entity
-@Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)
+@Inheritance(strategy = InheritanceType.TABLE_PER_CLASS) // inheritance ile entity alana da ekleyebiliriz
 public abstract class Ticket {
     @Id
     @GeneratedValue
