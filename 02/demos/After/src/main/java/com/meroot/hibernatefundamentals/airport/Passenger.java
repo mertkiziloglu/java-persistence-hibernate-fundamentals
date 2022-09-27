@@ -17,7 +17,7 @@ public class Passenger {
     private String name;
 
     @ManyToOne
-    @JoinColumn(name = "AIRPORT_ID")
+    @JoinColumn(name = "AIRPORT_ID") //many to one relationship with airport table
     private Airport airport;
 
     @OneToMany(mappedBy = "passenger")
