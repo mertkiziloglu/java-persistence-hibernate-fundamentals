@@ -17,7 +17,7 @@ public class Airport {
      @Column(name = "NAME")
      private String name;
 
-     @OneToMany(mappedBy = "airport")
+     @OneToMany(mappedBy = "airport")// tek havaalanina ait birden fazla yolcu olabilir
      private List<Passenger> passengers = new ArrayList<>();
 
      public Airport(int id, String name) {
