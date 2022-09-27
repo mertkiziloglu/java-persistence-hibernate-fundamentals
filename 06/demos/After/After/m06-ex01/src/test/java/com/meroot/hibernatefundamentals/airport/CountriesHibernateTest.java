@@ -56,7 +56,7 @@ public class CountriesHibernateTest {
     }
 
     @AfterEach
-    public void dropDown() {
+    public void dropDown() { // dropdown ile en soon persistance kapatma islemleri yapiliyor
         em.close();
         emf.close();
     }
