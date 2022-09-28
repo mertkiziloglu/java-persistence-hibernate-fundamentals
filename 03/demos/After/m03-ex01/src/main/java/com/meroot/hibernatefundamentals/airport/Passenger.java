@@ -7,7 +7,7 @@ import javax.persistence.*;
 @SecondaryTable(name = "ADDRESSES",
         pkJoinColumns = @PrimaryKeyJoinColumn(name = "PASSENGER_ID", referencedColumnName = "PASSENGER_ID"))
 public class Passenger {
-
+    // tablolar farkli olsa bile ayni entity class'inda tutulabilir
     @Id
     @Column(name = "PASSENGER_ID")
     private int id;
